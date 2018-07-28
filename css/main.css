@@ -1,0 +1,102 @@
+/*HEADER*/
+.main-header {
+  background: url(../img/img11.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+/* MEADIA QUERIES*/
+@media (max-width: 600px) {
+  .brand-text {
+    display: none;
+  }
+  .brand-text-small {
+    display: block;
+  }
+}
+
+/*WHAT*/
+.main-header-what {
+  background: url(../img/img-2.jpg);
+  background-size: cover;
+  background-position: top;
+  min-height: 300px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.main-header-what .showcase {
+  padding-top: 50px;
+}
+
+.what-text {
+  font-weight: 800;
+}
+
+.tab1 {
+  background: url(../img/img13.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+}
+.tab2 {
+  background: url(../img/img12.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+}
+.tab3 {
+  background: url(../img/img6.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+}
+.tab4 {
+  background: url(../img/img16.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+}
+
+/*TOOLS*/
+.main-header-tools {
+  background: url(../img/img-8.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.main-header-tools .showcase {
+  padding-top: 50px;
+}
+
+.tools-text {
+  font-weight: 800;
+}
+
+/*LEARN MORE*/
+.main-header-learn-more {
+  background: url(../img/img-7.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.main-header-learn-more .showcase {
+  padding-top: 50px;
+}
+
+.learn-more-text {
+  font-weight: 800;
+}
