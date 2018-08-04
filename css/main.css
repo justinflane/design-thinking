@@ -53,7 +53,7 @@
   padding: 30px;
 }
 .tab3 {
-  background: url(../img/img6.jpg);
+  background: url(../img/img21.jpg);
   background-size: cover;
   background-position: center;
   padding: 30px;
@@ -99,4 +99,8 @@
 
 .learn-more-text {
   font-weight: 800;
+}
+
+.quote {
+  background: #f4f4f4;
 }
