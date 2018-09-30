@@ -1,0 +1,16 @@
+{
+  "name": "Design-Thinking-Site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://justinflane.github.io/mydesignthinking",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
